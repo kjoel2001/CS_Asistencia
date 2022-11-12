@@ -1,0 +1,11 @@
+{
+    "tea_cat":"Contratado",
+    "tea_type":"Research",
+    "usr_id":"1"
+}
+
+{
+    "usr_id":"5",
+    "tea_type":"TC",
+    "tea_cat":"Nombrado"
+}

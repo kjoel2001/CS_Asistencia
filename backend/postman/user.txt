@@ -1,0 +1,15 @@
+Vicente
+{"usr_dni":"12457845", "usr_pass":"123", "usr_name":"Vicente", "usr_last_name":"Machaca", "usr_dob":"31-12-1986", "usr_email":"vmachaca@gmail.com", "ust_id":1}
+
+Isabel
+{"usr_dni":"73536300", "usr_pass":"puka123", "usr_name":"Isabel", "usr_last_name":"Ttito", "usr_dob":"12-12-2000", "usr_email":"ittito@gmail.com", "ust_id":2}
+
+Kevin
+{"usr_dni":"42564852", "usr_pass":"12341", "usr_name":"Kevin", "usr_last_name":"Linares", "usr_dob":"30-01-2001", "usr_email":"klinares@gmail.com", "ust_id":2}
+
+Dante
+{"usr_dni":"71351234", "usr_pass":"12345", "usr_name":"Dante", "usr_last_name":"Tarraga", "usr_dob":"04-02-2000", "usr_email":"dtarraga@gmail.com", "ust_id":2}
+
+Henry
+{"usr_dni":"47811145", "usr_pass":"77777", "usr_name":"Henry", "usr_last_name":"Torres", "usr_dob":"30-01-1978", "usr_email":"htorres@gmail.com", "ust_id":1}
+-----------

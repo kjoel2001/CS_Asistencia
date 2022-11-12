@@ -1,0 +1,14 @@
+{
+    "cur_name":"Construccion de software",
+    "cur_des":"Es un curso para que los alumnos aprendan a diseñar y desarrollar alicaciones"
+}
+
+{
+    "cur_name":"Compiladores",
+    "cur_des":"Deben de desarrollar un compilador"
+}
+
+{
+    "cur_name":"Interaccion humano computador",
+    "cur_des":"Interacción humano computador"
+}
