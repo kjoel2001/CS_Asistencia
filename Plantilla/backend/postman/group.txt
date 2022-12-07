@@ -1,0 +1,17 @@
+{
+    "tea_id":1,
+    "gro_name":"2022-I A",
+    "cur_id":1
+}
+
+{
+    "tea_id":2,
+    "gro_name":"2022-I A",
+    "cur_id":2
+}
+
+{
+    "tea_id":2,
+    "gro_name":"2022-I A",
+    "cur_id":3
+}

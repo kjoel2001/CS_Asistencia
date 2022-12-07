@@ -1,0 +1,20 @@
+Kevin
+{
+    "usr_id":3,
+    "std_regular":1,
+    "std_year": "13-03-2020"
+}
+
+Isabel
+{
+    "usr_id":2,
+    "std_regular":1,
+    "std_year": "13-03-2020"
+}
+
+Dante
+{
+    "usr_id":4,
+    "std_regular":1,
+    "std_year": "13-03-2020"
+}
